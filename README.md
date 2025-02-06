@@ -1,16 +1,24 @@
-## Hi there 👋
+[![Welcome](https://img.shields.io/badge/Welcome-to-my%20GitHub-blue)](https://github.com/yourusername)
 
-<!--
-**idea404/idea404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Pinned Repos
+- [Repo1](https://github.com/yourusername/repo1) – Brief description.
+- [Repo2](https://github.com/yourusername/repo2) – Brief description.
+- [Repo3](https://github.com/yourusername/repo3) – Brief description.
+
+---
+
+## 🏢 Organizations
+![Org1](https://yourorglogo.url/logo1.png) ![Org2](https://yourorglogo.url/logo2.png)
+
+---
+
+## ⚡ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
